@@ -136,7 +136,7 @@ Install takes time. Let it complete.
 - Switch networking to host-only adapter
 - Disable Windows Updates in gpedit.msc
 
-You're now ready to begin safe malware analysis using FLARE-VM.
+After a secure Vbox network set-up (in next sub-project) you will be ready to begin safe malware analysis using FLARE-VM.
 
 ---
 
