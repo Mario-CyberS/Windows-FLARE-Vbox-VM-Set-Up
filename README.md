@@ -36,7 +36,7 @@ This setup provides:
     <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
   </a>
   <a href="https://github.com/mandiant/flare-vm" target="_blank">
-    <img src="https://img.shields.io/badge/-FLARE--VM-FC4C02?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-FLARE--VM-0078D4?style=for-the-badge&logo=Windows&logoColor=white"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=PowerShell&logoColor=white"/>
