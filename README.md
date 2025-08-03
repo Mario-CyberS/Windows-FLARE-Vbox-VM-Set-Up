@@ -29,11 +29,21 @@ This setup provides:
 
 ## 🛠️ Tools Used  
 <div>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FLARE--VM-FC4C02?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-x64dbg-4A4A4A?style=for-the-badge"/>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank">
+    <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mandiant/flare-vm" target="_blank">
+    <img src="https://img.shields.io/badge/-FLARE--VM-FC4C02?style=for-the-badge"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+    <img src="https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=PowerShell&logoColor=white"/>
+  </a>
+  <a href="https://x64dbg.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-x64dbg-4A4A4A?style=for-the-badge"/>
+  </a>
 </div>
 
 ---
