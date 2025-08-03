@@ -42,7 +42,7 @@ This setup provides:
     <img src="https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=PowerShell&logoColor=white"/>
   </a>
   <a href="https://x64dbg.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-x64dbg-4A4A4A?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-x64dbg-black?style=for-the-badge"/>
   </a>
 </div>
 
