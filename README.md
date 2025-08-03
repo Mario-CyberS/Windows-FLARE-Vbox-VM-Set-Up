@@ -33,7 +33,7 @@ This setup provides:
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank">
-    <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Windows%2010-0078D9?style=for-the-badge&logo=Windows&logoColor=white"/>
   </a>
   <a href="https://github.com/mandiant/flare-vm" target="_blank">
     <img src="https://img.shields.io/badge/-FLARE--VM-0078D4?style=for-the-badge&logo=Windows&logoColor=white"/>
